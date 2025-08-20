@@ -39,10 +39,10 @@ Bot automatizado para WhatsApp com funcionalidades personalizadas
 - **Tech Stack:** Python, Selenium, APIs
 - **Features:** Envio automático de mensagens, respostas inteligentes
 
-### 💰 [Robô Monitoramento de Preço](https://github.com/ederfp/robo_monitoramento_de_preco)
-Sistema de monitoramento automático de preços em e-commerce
-- **Tech Stack:** Python, BeautifulSoup, Requests
-- **Features:** Web scraping, alertas por email, banco de dados
+### 💰 [Gestão Financeira](https://github.com/ederfp/gestao_financeira)
+Sistema de gestão financeira pessoal para controle de despesas e receitas.
+- **Tech Stack:** Next.js, React, Tailwind CSS, Shadcn/UI, Framer Motion, Node.js, TypeScript, Prisma, SQLite, Zod, React Hook Form
+- **Features:** CRUD de transações, relatórios, dashboards
 
 ### 📋 [Gerenciador de Tarefas](https://github.com/ederfp/gerenciador_tarefas)
 Aplicação web para gerenciamento de tarefas pessoais
