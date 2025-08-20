@@ -49,10 +49,10 @@ Aplicação web para gerenciamento de tarefas pessoais
 - **Tech Stack:** Python, Flask/Django, SQLite
 - **Features:** CRUD completo, interface responsiva
 
-### 💼 [Portfólio](https://github.com/ederfp/portfolio-project)
-Meu portfólio pessoal desenvolvido com tecnologias web modernas
-- **Tech Stack:** HTML5, CSS3, JavaScript
-- **Features:** Design responsivo, animações, seções interativas
+### 💼 [Portfólio](https://github.com/ederfp/portifolio)
+Portfólio moderno e responsivo construído com React, TypeScript e TailwindCSS
+- **Tech Stack:** React, TypeScript, Vite, TailwindCSS, Shadcn/UI, React Router Dom, React Hook Form, Zod, TanStack Query
+- **Features:** Design moderno, responsivo, tema escuro/claro, SEO otimizado, formulário de contato, navegação intuitiva
 
 ### 🐍 [API RESTful com Django](https://github.com/ederfp/api_restful_django)
 Uma API RESTful construída com Django e Django REST Framework.
