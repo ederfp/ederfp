@@ -8,6 +8,7 @@ Desenvolvedor apaixonado por **Python**, **Automação** e **Sistemas Web**. Ado
 ### Linguagens
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -16,6 +17,8 @@ Desenvolvedor apaixonado por **Python**, **Automação** e **Sistemas Web**. Ado
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/-Requests-222222?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -46,20 +49,20 @@ Aplicação web para gerenciamento de tarefas pessoais
 - **Tech Stack:** Python, Flask/Django, SQLite
 - **Features:** CRUD completo, interface responsiva
 
-### 🌤️ [Previsão do Tempo](https://github.com/ederfp/previsao_tempo)
-Aplicação que consulta APIs meteorológicas para previsão do tempo
-- **Tech Stack:** Python, APIs REST, Tkinter/Web
-- **Features:** Interface amigável, dados em tempo real
-
-### 🏥 [Calculadora IMC](https://github.com/ederfp/calculadora_imc)
-Calculadora de Índice de Massa Corporal com interface gráfica
-- **Tech Stack:** Python, Tkinter
-- **Features:** Interface intuitiva, validação de dados
-
-### 💼 [Portfólio](https://github.com/ederfp/portifolio-project)
+### 💼 [Portfólio](https://github.com/ederfp/portfolio-project)
 Meu portfólio pessoal desenvolvido com tecnologias web modernas
 - **Tech Stack:** HTML5, CSS3, JavaScript
 - **Features:** Design responsivo, animações, seções interativas
+
+### 🐍 [API RESTful com Django](https://github.com/ederfp/api_restful_django)
+Uma API RESTful construída com Django e Django REST Framework.
+- **Tech Stack:** Python, Django, Django REST Framework
+- **Features:** Endpoints para CRUD de recursos, autenticação e autorização.
+
+### 🏢 [CRM para Buffet](https://github.com/ederfp/CRM_buffet)
+Um sistema de CRM para gestão de clientes e eventos de um buffet.
+- **Tech Stack:** TypeScript, React, Node.js
+- **Features:** Cadastro de clientes, agendamento de eventos, controle financeiro.
 
 ## 🎯 Áreas de Interesse
 
